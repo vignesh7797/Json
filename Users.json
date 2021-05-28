@@ -1,5 +1,5 @@
 [
-  {"id":1,"name": "Vicky","email": "emp1@htc.com","phone": 9876543210,"dob": 'Thu Aug 08 1996 16:35:20 GMT+0530 (இந்திய நிலையான நேரம்)',"accept":true},
+  {"id":1,"name": "Vicky","email": "emp1@htc.com","phone": 9876543210,"dob": "Thu Aug 08 1996 16:35:20 GMT+0530 (இந்திய நிலையான நேரம்)","accept":true},
   {"id":2,"name": "Sakthi","email": "emp2@htc.com","phone": 9876543210,"dob": Wed Apr 10 1996 16:35:20 GMT+0530 (இந்திய நிலையான நேரம்),"accept":true},
   {"id":3,"name": "Siva","email": "emp3@htc.com","phone": 9876543210,"dob": Fri Apr 11 1997 16:35:20 GMT+0530 (இந்திய நிலையான நேரம்),"accept":true},
   {"id":4,"name": "Lakshmi","email": "emp4@htc.com","phone": 9876543210,"dob":Tue Jul 08 1997 16:35:20 GMT+0530 (இந்திய நிலையான நேரம்),"accept":true},
