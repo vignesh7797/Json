@@ -1,0 +1,6 @@
+[
+    {"id":1,"name": "Vicky","email": "emp1@htc.com","phone": 9876543210,"dob": "2021-07-01T10:17:49.576Z","accept":true},
+    {"id":2,"name": "Sakthi","email": "emp2@htc.com","phone": 9876543210,"dob": "2021-07-01T10:17:49.576Z","accept":true},
+    {"id":3,"name": "Siva","email": "emp3@htc.com","phone": 9876543210,"dob": "2021-07-01T10:17:49.576Z","accept":true},
+    {"id":4,"name": "Lakshmi","email": "emp4@htc.com","phone": 9876543210,"dob": "2021-07-01T10:17:49.576Z","accept":true}
+]
