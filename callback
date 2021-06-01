@@ -1,5 +1,4 @@
-calback([
-    {"id":1,"name": "Vicky","email": "emp1@htc.com","phone": 9876543210,"dob": "05/01/2021","accept":true},
+calback([{"id":1,"name": "Vicky","email": "emp1@htc.com","phone": 9876543210,"dob": "05/01/2021","accept":true},
     {"id":2,"name": "Sakthi","email": "emp2@htc.com","phone": 9876543210,"dob": "04/27/2021","accept":true},
     {"id":3,"name": "Siva","email": "emp3@htc.com","phone": 9876543210,"dob": "04/17/2021","accept":true},
     {"id":4,"name": "Lakshmi","email": "emp4@htc.com","phone": 9876543210,"dob": "04/15/2021","accept":true},
@@ -13,5 +12,4 @@ calback([
     {"id":12,"name": "Arun", "email": "emp12@htc.com","phone": 9876543210,"dob": "04/25/2021","accept":true},
     {"id":13,"name": "Tamil", "email": "emp13@htc.com","phone": 9876543210,"dob": "04/27/2021","accept":true}, 
     {"id":14,"name": "Rajeshh", "email": "emp14@htc.com","phone": 9876543210,"dob": "04/29/2021","accept":true},
-    {"id":15,"name": "Shankar", "email": "emp15@htc.com","phone": 9876543210,"dob": "05/01/2021","accept":true}
-])
+    {"id":15,"name": "Shankar", "email": "emp15@htc.com","phone": 9876543210,"dob": "05/01/2021","accept":true}])
