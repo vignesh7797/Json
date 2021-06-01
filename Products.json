@@ -1,0 +1,106 @@
+[
+    {
+        "category": "Mobile",
+        "name": [
+            [
+                "Samsung",
+                15000
+            ],
+            [
+                "Realme",
+                18000
+            ],
+            [
+                "POCO",
+                12000
+            ],
+            [
+                "Apple",
+                45000
+            ],
+            [
+                "Pixel",
+                40000
+            ],
+            [
+                "Redmi",
+                12000
+            ],
+            [
+                "Vivo",
+                10000
+            ]
+        ]
+    },
+    {
+        "category": "Electronics",
+        "name": [
+            [
+                "Bluetooth Headphone",
+                750
+            ],
+            [
+                "Bluetooth Speaker",
+                1200
+            ],
+            [
+                "Keyboard",
+                500
+            ],
+            [
+                "Mouse",
+                450
+            ],
+            [
+                "Power Bank",
+                1800
+            ]
+        ]
+    },
+    {
+        "category":"Home Appliance",
+        "nama":[
+            [
+                "Smart Tv 43inch",
+                39000
+            ],
+            [
+                "Samrt Tv 24inch",
+                27000
+            ],
+            [
+                "Washing Machine",
+                25000
+            ],
+            [
+                "Air Conditioner",
+                37000
+            ],
+            [
+                "Refridgerator",
+                32000
+            ]
+        ]
+    },
+    {
+        "category":"Furnitures",
+        "name":[
+            [
+                "Sofa",
+                24000
+            ],
+            [
+                "Dining Set",
+                31000
+            ],
+            [
+                "Living Room Chairs",
+                17000
+            ],
+            [
+                "Bed",
+                14000
+            ]
+        ]
+    }
+]
