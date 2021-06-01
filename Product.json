@@ -1,0 +1,65 @@
+[
+  {
+    category: "Electronics",
+    name: "Keyboard", 
+    price: 500, 
+    qty: 6, 
+    total: 3000
+  },
+  {
+    category: "Mobile", 
+   name: "Samsung", 
+   price: 15000, 
+   qty: 2, 
+   total: 30000
+  },
+  {
+    category: "Home Appliance", 
+   name: "Washing Machine", 
+   price: 25000, 
+    qty: 1, 
+    total: 25000
+  },
+  {
+    category: "Furnitures", 
+   name: "Living Room Chairs", 
+   price: 17000, 
+   qty: 2, 
+   total: 34000
+  },
+  {
+    category: "Electronics", 
+    name: "Bluetooth Headphone", 
+    price: 750, 
+    qty: 1, 
+    total: 750
+  },
+  {
+    category: "Mobile", 
+    name: "Apple", 
+    price: 45000, 
+    qty: 1, 
+    total: 45000
+  },
+  {
+    category: "Home Appliance", 
+    name: "Smart Tv 43inch", 
+    price: 39000, 
+    qty: 1, 
+    total: 39000
+  },
+  {
+    category: "Furnitures", 
+    name: "Bed", 
+    price: 14000, 
+    qty: 3, 
+    total: 42000
+  },
+  {
+    category: "Home Appliance", 
+    name: "Samrt Tv 24inch", 
+    price: 27000, 
+    qty: 6, 
+    total: 162000
+  }
+]
