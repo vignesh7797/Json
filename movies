@@ -1,0 +1,74 @@
+[
+    {
+        "url":"http://d10.uptofiles.com/files/Tamil%20Dubbed%20Collections/X%20Men%20Complete%20Collections/X%20Men%20The%20Last%20Stand%20(2006)/X%20Men%20The%20Last%20Stand%20(English)/X%20Men%20The%20Last%20Stand%20(640x360)/X%20Men%20The%20Last%20Stand%202006%20English%20HD.mp4",
+        "name":"X Men The Last Stand",
+        "year":"2006",
+        "category":["action", "adventure", "fantasy"],
+        "language":"english",
+        "type":"englishmovies",
+        "image":"https://wallpapercave.com/wp/wp2207620.jpg",
+        "discription":["Movie : X Men The Last Stand ","Director : Brett Ratner", "Starring : Hugh Jackman, Halle Berry","Genres : Action, Adventure, Fantasy","Language : English", "Release Date : 03 June 2021"],
+        "trailer":"https://youtu.be/ZQ0v5dXbw7M",
+        "subtitle":""
+    },
+    {
+        "url":"http://d1.uptofiles.com/files/Hollywood%20Movies%20(English)/30%20Days%20of%20Night%20(2007)%20(English)/30%20Days%20of%20Night%20(English)/30%20Days%20of%20Night%20(640x360)/30%20Days%20of%20Night%20HD.mp4",
+        "name":"30 Days of Night",
+        "year":"2007",
+        "category":["horror", "thriller"],
+        "language":"english",
+        "type":"englishmovies",
+        "image":"https://images-na.ssl-images-amazon.com/images/S/sgp-catalog-images/region_US/sphe-30_DAYS_OF_NIGHT_DARK_DAYS-Full-Image_GalleryCover-en-US-1516392087549._UR1920,1080_RI_.jpg",
+        "discription":["Movie : 30 Days of Night","Director : David Slade", "Starring : Josh Hartnett, Melissa George","Genres : Horror, Thriller","Language : English"],
+        "trailer":"https://youtu.be/OtU0UBnWik4",
+        "subtitle":"http://isaidubb.co/srt.php?id=57080"
+    },
+    {
+        "url":"http://d4.uptofiles.com/files/Tamil%20Dubbed%20Collections/Batman%20Triology%20Collections/The%20Dark%20Knight%20(2008)/Mp4%20HD%20(640x360)/The%20Dark%20Knight%20(2008)%20HD%20(640x360).mp4",
+        "name":"The Dark Knight",
+        "year":"2008",
+        "category":["action","crime","drama"],
+        "language":"tamil",
+        "type":"dubbedmovies",
+        "image":"https://wallpapercave.com/wp/kr87rMu.jpg",
+        "discription":["Movie : The Dark Knight","Director : Christopher Nolan", "Starring : Christian Bale, Heath Ledger","Genres : Action, Crime, Drama","Language : Tamil"],
+        "trailer":"https://youtu.be/LDG9bisJEaI",
+        "subtitle":""
+    },
+    {
+        "url":"http://d9.uptofiles.com/files/Tamil%20Dubbed%20Movies/Big%20Hero%206%20(2014)/Big%20Hero%206%20(Tamil%20Fan%20Dub)/Big%20Hero%206%20(640X360)/Big%20Hero%206%202014%20HD.mp4",
+        "name":"Big Hero 6",
+        "year":"2014",
+        "category":["action","animation","adventure","family","sci-fi"],
+        "language":"tamil",
+        "type":"dubbedmovies",
+        "image":"https://animationfascination.files.wordpress.com/2014/06/big_hero_6_unpublished_characterl_poster_d_jposters-2.jpg",
+        "discription":["Movie : Big Hero 6","Director : Don Hall, Chris Williams", "Starring : Scott Adsit, Ryan Potter","Genres : Animation, Action, Adventure, Family, Sci-Fi","Language : Tamil"],
+        "trailer":"https://youtu.be/z3biFxZIJOQ",
+        "subtitle":""
+    },
+    {
+        "url":"http://d13.uptofiles.com/files/Tamil%20Dubbed%20Movies/The%20Grudge%203%20(2009)/The%20Grudge%203%20(Tamil)/The%20Grudge%203%20(720p%20HD)/The%20Grudge%203%202009%20720p%20HD.mp4",
+        "name":"The Grudge 3",
+        "year":"2009",
+        "category":["horror","thriller","mystery"],
+        "language":"tamil",
+        "type":"dubbedmovies",
+        "image":"https://bloodredreviews.files.wordpress.com/2019/04/grudge-3.jpg",
+        "discription":["Movie : The Grudge 3","Director : Toby Wilkins", "Starring : Matthew Knight, Shawnee Smith","Genres : Horror, Mystery, Thriller","Language : Tamil"],
+        "trailer":"https://youtu.be/anlgZih2lzo",
+        "subtitle":""
+    },
+    {
+        "url":"http://d8.uptofiles.com/files/Tamil%20Dubbed%20Movies/Angels%20and%20Demons%20(2009)/Angels%20and%20Demons%20(640x360)/Angels%20and%20Demons%20HD.mp4",
+        "name":"Angels and Demons",
+        "year":"2009",
+        "category":["mystery","thriller"],
+        "language":"tamil",
+        "type":"dubbedmovies",
+        "image":"https://m.media-amazon.com/images/M/MV5BMjA1NzcxMzIxMF5BMl5BanBnXkFtZTcwMjEwMjQ1Mg@@._V1_.jpg",
+        "discription":["Movie : Angels and Demons","Director : Ron Howard", "Starring : Tom Hanks, Ewan McGregor","Genres : Mystery, Thriller","Language : Tamil"],
+        "trailer":"https://youtu.be/zzjv-GUEDfg",
+        "subtitle":""
+    }
+]
