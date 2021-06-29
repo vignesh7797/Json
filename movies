@@ -8,7 +8,7 @@
         "type":"englishmovies",
         "image":"https://wallpapercave.com/wp/wp2207620.jpg",
         "discription":["Movie : X Men The Last Stand ","Director : Brett Ratner", "Starring : Hugh Jackman, Halle Berry","Genres : Action, Adventure, Fantasy","Language : English", "Release Date : 03 June 2021"],
-        "trailer":"https://youtu.be/ZQ0v5dXbw7M",
+        "trailer":"https://www.youtube.com/embed/ZQ0v5dXbw7M",
         "subtitle":""
     },
     {
@@ -20,7 +20,7 @@
         "type":"englishmovies",
         "image":"https://images-na.ssl-images-amazon.com/images/S/sgp-catalog-images/region_US/sphe-30_DAYS_OF_NIGHT_DARK_DAYS-Full-Image_GalleryCover-en-US-1516392087549._UR1920,1080_RI_.jpg",
         "discription":["Movie : 30 Days of Night","Director : David Slade", "Starring : Josh Hartnett, Melissa George","Genres : Horror, Thriller","Language : English"],
-        "trailer":"https://youtu.be/OtU0UBnWik4",
+        "trailer":"https://www.youtube.com/embed/OtU0UBnWik4",
         "subtitle":""
     },
     {
@@ -32,7 +32,7 @@
         "type":"dubbedmovies",
         "image":"https://wallpapercave.com/wp/kr87rMu.jpg",
         "discription":["Movie : The Dark Knight","Director : Christopher Nolan", "Starring : Christian Bale, Heath Ledger","Genres : Action, Crime, Drama","Language : Tamil"],
-        "trailer":"https://youtu.be/LDG9bisJEaI",
+        "trailer":"https://www.youtube.com/embed/LDG9bisJEaI",
         "subtitle":""
     },
     {
@@ -44,7 +44,7 @@
         "type":"dubbedmovies",
         "image":"https://animationfascination.files.wordpress.com/2014/06/big_hero_6_unpublished_characterl_poster_d_jposters-2.jpg",
         "discription":["Movie : Big Hero 6","Director : Don Hall, Chris Williams", "Starring : Scott Adsit, Ryan Potter","Genres : Animation, Action, Adventure, Family, Sci-Fi","Language : Tamil"],
-        "trailer":"https://youtu.be/z3biFxZIJOQ",
+        "trailer":"https://www.youtube.com/embed/z3biFxZIJOQ",
         "subtitle":""
     },
     {
@@ -56,7 +56,7 @@
         "type":"dubbedmovies",
         "image":"https://bloodredreviews.files.wordpress.com/2019/04/grudge-3.jpg",
         "discription":["Movie : The Grudge 3","Director : Toby Wilkins", "Starring : Matthew Knight, Shawnee Smith","Genres : Horror, Mystery, Thriller","Language : Tamil"],
-        "trailer":"https://youtu.be/anlgZih2lzo",
+        "trailer":"https://www.youtube.com/embed/anlgZih2lzo",
         "subtitle":""
     },
     {
@@ -68,7 +68,7 @@
         "type":"dubbedmovies",
         "image":"https://m.media-amazon.com/images/M/MV5BMjA1NzcxMzIxMF5BMl5BanBnXkFtZTcwMjEwMjQ1Mg@@._V1_.jpg",
         "discription":["Movie : Angels and Demons","Director : Ron Howard", "Starring : Tom Hanks, Ewan McGregor","Genres : Mystery, Thriller","Language : Tamil"],
-        "trailer":"https://youtu.be/zzjv-GUEDfg",
+        "trailer":"https://www.youtube.com/embed/zzjv-GUEDfg",
         "subtitle":""
     }
 ]
