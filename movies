@@ -70,7 +70,7 @@
         "discription":["Movie : Angels and Demons","Director : Ron Howard", "Starring : Tom Hanks, Ewan McGregor","Genres : Mystery, Thriller","Language : Tamil"],
         "trailer":"https://www.youtube.com/embed/zzjv-GUEDfg",
         "subtitle":""
-    };
+    },
     {
          "url":"https://firebasestorage.googleapis.com/v0/b/movie-masala-63b84.appspot.com/o/Now%20You%20See%20Me%2FNow%20You%20See%20Me.mp4?alt=media&token=a0a7c46c-3b26-43b6-828e-440d01492a55",
         "name":"Now You See Me",
