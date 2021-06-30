@@ -7,7 +7,7 @@
         "language":"english",
         "type":"englishmovies",
         "image":"https://wallpapercave.com/wp/wp2207620.jpg",
-        "discription":["Movie : X Men The Last Stand ","Director : Brett Ratner", "Starring : Hugh Jackman, Halle Berry","Genres : Action, Adventure, Fantasy","Language : English", "Release Date : 03 June 2021"],
+        "discription":["Movie : X Men The Last Stand ","Director : Brett Ratner", "Starring : Hugh Jackman, Halle Berry","Genres : Action, Adventure, Fantasy","Language : English",
         "trailer":"https://www.youtube.com/embed/ZQ0v5dXbw7M",
         "subtitle":""
     },
@@ -69,6 +69,18 @@
         "image":"https://m.media-amazon.com/images/M/MV5BMjA1NzcxMzIxMF5BMl5BanBnXkFtZTcwMjEwMjQ1Mg@@._V1_.jpg",
         "discription":["Movie : Angels and Demons","Director : Ron Howard", "Starring : Tom Hanks, Ewan McGregor","Genres : Mystery, Thriller","Language : Tamil"],
         "trailer":"https://www.youtube.com/embed/zzjv-GUEDfg",
+        "subtitle":""
+    };
+    {
+         "url":"https://firebasestorage.googleapis.com/v0/b/movie-masala-63b84.appspot.com/o/Now%20You%20See%20Me%2FNow%20You%20See%20Me.mp4?alt=media&token=a0a7c46c-3b26-43b6-828e-440d01492a55",
+        "name":"Now You See Me",
+        "year":"2013",
+        "category":["mystery","thriller", "heist"],
+        "language":"tamil",
+        "type":"dubbedmovies",
+        "image":"https://firebasestorage.googleapis.com/v0/b/movie-masala-63b84.appspot.com/o/Now%20You%20See%20Me%2Fnowyouseeme.jpg?alt=media&token=6148ff33-43ad-48ef-8c0c-cb6d7227cc08",
+        "discription":["Movie : Now You See Me","Director : Louis Leterrier", "Starring :Jesse Eisenberg, Mark Ruffalo","Genres : Mystery, Thriller, Heist","Language : Tamil"],
+        "trailer":"https://www.youtube.com/embed/KzJNYYkkhzc",
         "subtitle":""
     }
 ]
