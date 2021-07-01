@@ -82,5 +82,17 @@
         "discription":["Movie : Now You See Me","Director : Louis Leterrier", "Starring :Jesse Eisenberg, Mark Ruffalo","Genres : Mystery, Thriller, Heist","Language : Tamil"],
         "trailer":"https://www.youtube.com/embed/KzJNYYkkhzc",
         "subtitle":""
+    },
+    {
+        "url":"https://firebasestorage.googleapis.com/v0/b/movie-masala-63b84.appspot.com/o/G%20I%20Joe%20Rise%20Of%20Cobra%2FG%20I%20Joe%20Rise%20Of%20Cobra%20(2009)%20HD%20(640x360).mp4?alt=media&token=40c810b5-d574-4cae-8c49-6ea032ad5b6b",
+        "name":"G I Joe Rise Of Cobra",
+        "year":"2009",
+        "category":["action","sci-fi","thriller"],
+        "language":"tamil",
+        "type":"dubbedmovies",
+        "image":"https://firebasestorage.googleapis.com/v0/b/movie-masala-63b84.appspot.com/o/G%20I%20Joe%20Rise%20Of%20Cobra%2FGiJoeRiseofGobra.jpg?alt=media&token=4ac37792-c6e8-4d9c-9592-dc95ab1ad92e",
+        "discription":["Movie : G I Joe Rise Of Cobra","Director : Stephen Sommers", "Starring :Channing Tatum, Marlon Wayans","Genres : Action,Sci-fi, Thriller","Language : Tamil"],
+        "trailer":"https://www.youtube.com/embed/OqymrugFevw",
+        "subtitle":""
     }
 ]
